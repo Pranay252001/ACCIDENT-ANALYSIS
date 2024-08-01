@@ -17,7 +17,7 @@ Examine temporal patterns of road accidents, identifying patterns based on days 
 5. Severity Analysis
 Analyze accident severity factors to understand the impact of various variables on the outcome of road incidents. This information can be valuable for designing targeted safety interventions.
 
-Technologies Used
-Power BI
-Data sources (e.g., CSV, Excel) containing road accident data
+Technologies Used:
+Power BI, 
+Data sources (e.g., CSV, Excel) containing road accident data, 
 MYSQL for retrieving data.
